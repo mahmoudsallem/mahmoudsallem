@@ -43,7 +43,7 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
--->
+
 ![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
 
 ## Hey 👋, I'm Albert Abdilim
@@ -83,4 +83,37 @@ I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
 
 ⭐️ From [L1cardo](https://github.com/L1cardo)
+-->
+# Hi 👋, I'm Ahmed Basem
+
+A Machine Learning Engineer with solid experience in Machine Learning, Deep Learning, NLP, and Computer Vision.
+
+🔭 I’m currently a Machine Learning Engineer @ MetaChain.
+
+📫 How to reach me: ahmedbasem.dev@gmail.com
+
+## Connect with me:
+
+- Twitter: [@ahmedbasemdev](https://twitter.com/ahmedbasemdev)
+- Website: [ahmedbasem.dev](https://ahmedbasem.dev)
+
+## Languages and Tools:
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## Projects:
+
+- [LungChain](https://lungchain.example.com) - A project focused on lung disease detection using AI.
+- [LLLMS](https://lllms.example.com) - Learning Management System with AI integration for personalized learning experiences.
 
