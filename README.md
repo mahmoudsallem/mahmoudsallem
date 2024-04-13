@@ -87,11 +87,11 @@ I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in
 <h1 align="center">Hi 👋, I'm Mahmoud Salem Mostafa</h1>
 <h3 align="center">Data Scientist</h3>
 
-A Machine Learning Engineer with solid experience in Machine Learning, Deep Learning, NLP, and Computer Vision.
+- A Machine Learning Engineer with solid experience in Machine Learning, Deep Learning, NLP, and Computer Vision.
 
-🔭 I’m currently a Machine Learning Engineer @ MetaChain.
+- 🔭 I’m currently a Machine Learning Engineer @ MetaChain.
 
-📫 How to reach me: ahmedbasem.dev@gmail.com
+📫 How to reach me: salem7ouda@gmail.com
 
 ## Connect with me:
 
