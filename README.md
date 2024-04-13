@@ -3,13 +3,13 @@
 
 <h1 align="center"> A Machine Learning Engineer with solid experience in Machine Learning, Deep Learning, NLP, and Computer Vision. </h1>
 
-- 🔭 I’m currently a Machine Learning Engineer @ MetaChain.
+- 🔭 I’m currently a Machine Learning Engineer Freelance.
 
 - 📫 How to reach me: salem7ouda@gmail.com
 
 ## Connect with me:
 
-- LinkedIn: [Ahmed Basem](https://www.linkedin.com/in/mahmoud-salem2)
+- LinkedIn: [Mahmoud_Salem](https://www.linkedin.com/in/mahmoud-salem2)
 - Email: [salem7ouda@gmail.com](mailto:salem7ouda@gmail.com)
 
 ## Languages and Tools:
