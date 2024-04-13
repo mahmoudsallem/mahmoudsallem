@@ -6,13 +6,15 @@
 <!-- Add your contact information and social media links here -->
 </p>
 
-<h3 align="left">Talking about Personal Stuffs:</h3>
+**Talking about Personal Stuffs:**
 
-<p align="left">I'm passionate about all things related to artificial intelligence and data science. In my free time, you can often find me exploring new machine learning algorithms, tinkering with datasets, or working on personal AI projects. I love diving into the latest research papers and staying updated with advancements in the field.
+- 👨‍💻 I'm currently participating in AI competitions and Kaggle challenges to sharpen my skills.
+- 🌱 I'm currently learning advanced machine learning techniques and diving deeper into neural networks.
+- 💬 Ask me about AI and data science concepts or how to approach a machine learning project—I'm always happy to help!
+- 📚 I'm an avid reader of AI research papers and enjoy discussing the latest advancements in the field.
+- 🎨 In my free time, I enjoy exploring the intersection of AI with art and creativity.
+- ⚡️ Fun Fact: I'm also a coffee enthusiast and love experimenting with different brewing methods.
 
-I'm particularly interested in the intersection of AI with areas like natural language processing, computer vision, and reinforcement learning. I enjoy discussing and debating ideas with fellow enthusiasts and am always eager to learn something new.
-
-Outside of AI and data science, I enjoy hiking, photography, and trying out new cuisines. Feel free to connect with me to chat about AI, share project ideas, or simply to exchange hiking recommendations!</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
