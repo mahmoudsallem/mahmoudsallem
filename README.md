@@ -3,13 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
   <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://github.com/yourusername" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png" alt="GitHub"/></a>
   <!-- Add any other social media or professional profiles you want to include -->
-</p>
 </p>
 
 **Talking about Personal Stuffs:**
