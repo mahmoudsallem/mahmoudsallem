@@ -87,11 +87,11 @@ I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in
 <h1 align="center">Hi 👋, I'm Mahmoud Salem Mostafa</h1>
 <h3 align="center">Data Scientist</h3>
 
-- A Machine Learning Engineer with solid experience in Machine Learning, Deep Learning, NLP, and Computer Vision.
+<h1 align="center"> A Machine Learning Engineer with solid experience in Machine Learning, Deep Learning, NLP, and Computer Vision. </h1>
 
 - 🔭 I’m currently a Machine Learning Engineer @ MetaChain.
 
-📫 How to reach me: salem7ouda@gmail.com
+- 📫 How to reach me: salem7ouda@gmail.com
 
 ## Connect with me:
 
@@ -103,7 +103,6 @@ I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -112,9 +111,3 @@ I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-## Projects:
-
-- [LungChain](https://lungchain.example.com) - A project focused on lung disease detection using AI.
-- [LLLMS](https://lllms.example.com) - Learning Management System with AI integration for personalized learning experiences.
-
