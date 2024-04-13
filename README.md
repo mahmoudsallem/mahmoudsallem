@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Mahmoud Salem Mostafa</h1>
 <h3 align="center">Data Scientist</h3>
 
@@ -6,7 +7,7 @@
   <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/twitter--v1.png" alt="Twitter"/></a>
   <a href="https://github.com/yourusername" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-glyphs/24/000000/github.png" alt="GitHub"/></a>
-  <!-- Add any other social media or professional profiles you want to include -->
+  <!-- Add any other social media or professional profiles you want to include 
 </p>
 
 **Talking about Personal Stuffs:**
@@ -42,3 +43,4 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
+-->
