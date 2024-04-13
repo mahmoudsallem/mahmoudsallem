@@ -48,30 +48,28 @@
 
 ## Hey 👋, I'm Albert Abdilim
 
-Hi there, I'm **Albert Abdilim**, a **medical student**.
+Hi there, I'm **Albert Abdilim**, a **medical student** with a passion for artificial intelligence and data science.
 
-I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Now I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
-
-I love programming and I love Swift.
+I am **[Uyghur](https://en.wikipedia.org/wiki/Uyghurs)**, which is a minority in China. Currently, I am studying medical imaging at **[HUST](http://english.hust.edu.cn/)**.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
-- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
-- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
+- 👨🏽‍💻 I’m currently a medical student at my 4th year, focusing on integrating AI into medical practice;
+- 🤖 My interests lie in applying AI and machine learning techniques in healthcare, such as medical image analysis, predictive modeling, and personalized medicine;
+- 🧠 I'm constantly learning and exploring new advancements in AI and data science to improve patient outcomes and healthcare efficiency;
+- 💬 Feel free to reach out to discuss AI in healthcare, medical imaging, or any related topics—I'm always happy to connect and collaborate;
+- 📫 You can email me at albert.abdilim@foxmail.com with any inquiries or opportunities.
 
-### Languages and Tools:
+### AI Skills:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
-![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 ### Contact me:
 
@@ -85,3 +83,4 @@ I love programming and I love Swift.
 ![L1cardo's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
 
 ⭐️ From [L1cardo](https://github.com/L1cardo)
+
